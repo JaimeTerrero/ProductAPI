@@ -1,0 +1,11 @@
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\bin\Debug\net8.0\VictorVentral.Products.Domain.deps.json
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\bin\Debug\net8.0\VictorVentral.Products.Domain.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\bin\Debug\net8.0\VictorVentral.Products.Domain.pdb
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\VictorVentral.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\VictorVentral.Products.Domain.AssemblyInfoInputs.cache
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\VictorVentral.Products.Domain.AssemblyInfo.cs
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\VictorVentral.Products.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\VictorVentral.Products.Domain.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\refint\VictorVentral.Products.Domain.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\VictorVentral.Products.Domain.pdb
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\ref\VictorVentral.Products.Domain.dll

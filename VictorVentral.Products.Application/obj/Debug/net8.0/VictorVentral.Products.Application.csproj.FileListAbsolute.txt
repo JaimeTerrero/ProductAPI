@@ -1,0 +1,15 @@
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\bin\Debug\net8.0\VictorVentral.Products.Application.deps.json
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\bin\Debug\net8.0\VictorVentral.Products.Application.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\bin\Debug\net8.0\VictorVentral.Products.Application.pdb
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\bin\Debug\net8.0\VictorVentral.Products.Domain.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\bin\Debug\net8.0\VictorVentral.Products.Domain.pdb
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.csproj.AssemblyReference.cache
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.AssemblyInfoInputs.cache
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.AssemblyInfo.cs
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.csproj.CopyComplete
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\refint\VictorVentral.Products.Application.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.pdb
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\ref\VictorVentral.Products.Application.dll
