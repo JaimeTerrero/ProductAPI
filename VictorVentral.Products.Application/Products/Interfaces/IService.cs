@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VictorVentral.Products.Application
+namespace VictorVentral.Products.Application.Products.Interfaces
 {
     public interface IService<Entity, EntityDto> where Entity : class
         where EntityDto : class

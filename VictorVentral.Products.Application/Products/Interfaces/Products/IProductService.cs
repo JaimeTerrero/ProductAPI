@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using VictorVentral.Products.Application.Products.DTOs;
 using VictorVentral.Products.Domain.Entities;
 
-namespace VictorVentral.Products.Application.Products.Interfaces
+namespace VictorVentral.Products.Application.Products.Interfaces.Products
 {
     public interface IProductService : IService<Product, ProductDto>
     {

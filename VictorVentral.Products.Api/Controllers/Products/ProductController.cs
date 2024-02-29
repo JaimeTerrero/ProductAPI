@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using VictorVentral.Products.Application.Products.DTOs;
-using VictorVentral.Products.Application.Products.Interfaces;
+using VictorVentral.Products.Application.Products.Interfaces.Products;
 
 namespace VictorVentral.Products.Api.Controllers.Products
 {
