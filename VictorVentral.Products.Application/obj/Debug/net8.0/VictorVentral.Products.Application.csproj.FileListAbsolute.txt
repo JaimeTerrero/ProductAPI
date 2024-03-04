@@ -13,3 +13,4 @@ C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Product
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\refint\VictorVentral.Products.Application.dll
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.pdb
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\ref\VictorVentral.Products.Application.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Application\obj\Debug\net8.0\VictorVentral.Products.Application.sourcelink.json

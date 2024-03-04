@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VictorVentral.Products.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee77c4c606229f47efff26f1bdab3635cf1211ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acdfc802ec5c7c9a546b496ae928aeb23183019a")]
 [assembly: System.Reflection.AssemblyProductAttribute("VictorVentral.Products.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VictorVentral.Products.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

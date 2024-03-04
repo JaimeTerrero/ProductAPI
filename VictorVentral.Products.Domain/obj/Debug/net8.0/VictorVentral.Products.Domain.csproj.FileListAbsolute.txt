@@ -9,3 +9,4 @@ C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Product
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\refint\VictorVentral.Products.Domain.dll
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\VictorVentral.Products.Domain.pdb
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\ref\VictorVentral.Products.Domain.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Domain\obj\Debug\net8.0\VictorVentral.Products.Domain.sourcelink.json

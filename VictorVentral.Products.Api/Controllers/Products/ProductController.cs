@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Azure.Messaging.ServiceBus;
+using Microsoft.AspNetCore.Mvc;
+using System.Text.Json;
 using VictorVentral.Products.Application.Products.DTOs;
 using VictorVentral.Products.Application.Products.Interfaces.Products;
 
@@ -25,6 +27,14 @@ namespace VictorVentral.Products.Api.Controllers.Products
         [HttpPost("CreateProduct")]
         public async Task<ActionResult> CreateProduct(ProductDto productDto)
         {
+
+            var connectionString = "Endpoint=sb://solvex-product.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=RwI+1AFTIxvu4Qk0hcsi5grlshaKHEJTC+ASbD1wc8g=";
+            var client = new ServiceBusClient(connectionString);
+            var sender = client.CreateSender("examplequeue");
+            var body = JsonSerializer.Serialize(productDto);
+            var message = new ServiceBusMessage(body);
+            await sender.SendMessageAsync(message);
+
             var product = await _productService.Add(productDto);
 
             return Ok(product);

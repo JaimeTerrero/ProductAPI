@@ -17,3 +17,4 @@ C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Product
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Infrastructure\obj\Debug\net8.0\VictorVentral.Products.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Infrastructure\obj\Debug\net8.0\VictorVentral.Products.Infrastructure.csproj.CopyComplete
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Infrastructure\obj\Debug\net8.0\VictorVentral.Products.Infrastructure.genruntimeconfig.cache
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Infrastructure\obj\Debug\net8.0\VictorVentral.Products.Infrastructure.sourcelink.json
