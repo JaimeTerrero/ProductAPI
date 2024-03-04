@@ -3,12 +3,20 @@ using VictorVentral.Products.Infrastructure.Persistence.Context;
 using VictorVentral.Products.Infrastructure.IoC;
 using VictorVentral.Products.Application.IoC;
 using System.Reflection;
+using Microsoft.Azure.ServiceBus;
+using VictorVentral.Products.Application.Products.GenericService;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddSingleton<ITopicClient>(x =>
+    new TopicClient(builder.Configuration.GetValue<string>("ServiceBus:ConnectionString"), 
+        builder.Configuration.GetValue<string>("ServiceBus:TopicName")));
+
+builder.Services.AddSingleton<IMessagePublisher, MessagePublisher>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

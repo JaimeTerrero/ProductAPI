@@ -146,3 +146,8 @@ C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Product
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Api\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Api\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
 C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Api\obj\Debug\net8.0\VictorVentral.Products.Api.sourcelink.json
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Api\bin\Debug\net8.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Api\bin\Debug\net8.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Jaime Terrero\Desktop\Microservices\VictorVentral\VictorVentral.Products.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
